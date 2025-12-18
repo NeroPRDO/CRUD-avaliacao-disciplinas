@@ -1,0 +1,6 @@
+</main>
+<footer class="card" style="margin:20px auto;max-width:1100px">
+  <small>Protótipo AVA_liação Disciplina | DAO -> JSP e Servlet LPOO_II  ${pageContext.request.contextPath}</small>
+</footer>
+</body>
+</html>
