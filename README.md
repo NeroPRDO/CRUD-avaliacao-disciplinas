@@ -130,18 +130,11 @@ Entidades principais:
 - `db/schema.sql` → DDL + seeds
 - `db/trigger.sql` → triggers de auditoria (opcional)
 
----
-
-## Dica para publicar no GitHub
-
-Crie um `.gitignore` para ignorar:
-- `target/`
-- `nbproject/private/`
-- `.idea/`, `.vscode/`
-- `*.log`
 
 ---
 
 ## Autor
 
 - Pedro Eduardo Dall’Agnol — UFPR (TADS) — LPOO-II
+- Gabriela Harres Rodrigues — UFPR (TADS) — LPOO-II
+- 
